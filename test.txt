@@ -1,2 +1,2 @@
-print "hello sangfor"
+print "hello huawei"
 print "hello c++"
