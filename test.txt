@@ -1,2 +1,4 @@
 print "hello huawei"
 print "hello c++"
+print "hello java"
+
